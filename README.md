@@ -1,5 +1,11 @@
 # Top-Scoring Female U.S. Soccer Players
 
+## Who are the players?
+
+* Abby Wambach
+* Mia Hamm
+* Kristine Lilly
+
 ## About the Players
 
 ### Abby Wambach - Top scorer
